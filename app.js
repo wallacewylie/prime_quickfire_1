@@ -1,1 +1,1 @@
-console.log(Quickfire challenge);
+console.log("Quickfire challenge");
